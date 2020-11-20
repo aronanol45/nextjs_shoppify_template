@@ -1,30 +1,102 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# oye.agency documentations pour entretiens avec clients/prospects
+## Client
+### Statut 
 
-## Getting Started
+- [ ] Sans statut actuellement
+- [ ] Indépendant	
+- [ ] sàrl 		
+- [ ] SA 		
+- [ ] Association/fondation		
+- [ ] Gouvernemental / Cantonal / Communal
 
-First, run the development server:
+### Entité ( si entreprise, association/fondation ou gouv.)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Nom complet de l’entité: ___________________
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Adresse de l’entité: _______________________
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- NPA de l’entité :  _________________________
 
-## Learn More
+- Canton de l’entité : ______________________
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Personne de contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Nom: ________________________
 
-## Deploy on Vercel
+- Prénom: ____________________
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Adrese: ____________________
+- NPA: _______________________
+- Téléphone: _________________
+- Email: _____________________
+- Rôle: ______________________
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+### Informations complémentaires
+- ________________________________
+- ________________________________
+- ________________________________
+- ________________________________
+- ________________________________
+
+
+
+## Informations générales sur le projet
+
+### Nom du projet : 
+#### Domaines 
+- [ ] Nom de domaine existant: ______________________
+- [ ] Nom de domaine inexistant
+	- [ ] Nom de domaines à acheter 
+		- ________________________
+		- ________________________
+		- ________________________
+		- ________________________
+	- [ ] Domaines seront acheté par le client
+- [ ] Rapatriement des noms de domaines 
+
+#### Hébergement   
+
+- [ ] Hébergement existant 	
+- [ ] Hébergement inexistant
+	- Hébergement à acquérir:  
+    - [ ] Partagé
+	- [ ] Partagé + mails
+	- [ ] Cloud ( Infomaniak )
+	- [ ] Cloud étranger ( AWS, Cloudflare etc )
+- [ ] Rapatriement de l'hébergment
+
+##### ! Rappeler que nous ne travaillons qu’avec des hébergeurs suisses pour les ecommerces, sites vitrines etc ( Informaniak et Hostpoint pour les hébergements partagés, Infomaniak pour le cloud ).
+##### ! Des hébergeurs internationaux peuvent être utilisés pour les web app et applications hybrides
+
+
+### Projet à venir
+
+- [ ] Refonte graphique d’un projet existante
+- [ ] Refonte technique d’un projet existante
+- [ ] Ajout de fonctionnalité(s) à un projet existant
+- [ ] Nouveau projet
+-----------
+- [ ] Audit UI/UX 
+- [ ] Audit SEO 
+- [ ] Audit téchnique ( webperf )
+
+
+
+#### Type de projet 
+
+- [ ] Ecommerce 
+- [ ] Site vitrine 
+- [ ] Landing page
+	- [ ] Dynamique 
+	- [ ] Statique 
+- [ ] Web app
+- [ ] Application hybride
+- [ ] Web design
+	- [ ] App
+	- [ ] Web
+	- [ ] UI / UX 
+- [ ] SEO
+- [ ] Creative Coding
